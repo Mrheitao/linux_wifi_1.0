@@ -1,0 +1,1 @@
+cmd_fs/minix/minix.o := /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o fs/minix/minix.o fs/minix/bitmap.o fs/minix/itree_v1.o fs/minix/itree_v2.o fs/minix/namei.o fs/minix/inode.o fs/minix/file.o fs/minix/dir.o 

@@ -1,0 +1,1 @@
+cmd_drivers/devfreq/built-in.o :=  /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o drivers/devfreq/built-in.o drivers/devfreq/devfreq.o drivers/devfreq/governor_simpleondemand.o drivers/devfreq/governor_performance.o drivers/devfreq/governor_powersave.o drivers/devfreq/governor_userspace.o 

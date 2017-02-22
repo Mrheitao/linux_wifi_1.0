@@ -1,0 +1,3 @@
+kernel/drivers/extcon/extcon_class.ko
+kernel/drivers/extcon/extcon_gpio.ko
+kernel/drivers/extcon/extcon-max8997.ko

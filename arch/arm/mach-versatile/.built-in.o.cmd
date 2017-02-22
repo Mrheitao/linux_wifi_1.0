@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-versatile/built-in.o :=  /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o arch/arm/mach-versatile/built-in.o arch/arm/mach-versatile/core.o arch/arm/mach-versatile/versatile_pb.o arch/arm/mach-versatile/pci.o 

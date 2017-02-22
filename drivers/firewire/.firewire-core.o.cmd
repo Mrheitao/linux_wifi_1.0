@@ -1,0 +1,1 @@
+cmd_drivers/firewire/firewire-core.o := /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o drivers/firewire/firewire-core.o drivers/firewire/core-card.o drivers/firewire/core-cdev.o drivers/firewire/core-device.o drivers/firewire/core-iso.o drivers/firewire/core-topology.o drivers/firewire/core-transaction.o 

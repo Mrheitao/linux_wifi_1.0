@@ -1,0 +1,1 @@
+cmd_drivers/char/built-in.o :=  /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o drivers/char/built-in.o drivers/char/mem.o drivers/char/random.o drivers/char/ttyprintk.o drivers/char/misc.o drivers/char/hw_random/built-in.o drivers/char/tpm/built-in.o 

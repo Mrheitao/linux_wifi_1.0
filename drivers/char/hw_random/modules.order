@@ -1,0 +1,2 @@
+kernel/drivers/char/hw_random/timeriomem-rng.ko
+kernel/drivers/char/hw_random/virtio-rng.ko

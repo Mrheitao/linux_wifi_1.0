@@ -1,0 +1,1 @@
+cmd_arch/arm/plat-versatile/built-in.o :=  /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o arch/arm/plat-versatile/built-in.o arch/arm/plat-versatile/clock.o arch/arm/plat-versatile/clcd.o arch/arm/plat-versatile/fpga-irq.o arch/arm/plat-versatile/leds.o arch/arm/plat-versatile/sched-clock.o 

@@ -1,0 +1,1 @@
+cmd_fs/coda/coda.o := /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o fs/coda/coda.o fs/coda/psdev.o fs/coda/cache.o fs/coda/cnode.o fs/coda/inode.o fs/coda/dir.o fs/coda/file.o fs/coda/upcall.o fs/coda/coda_linux.o fs/coda/symlink.o fs/coda/pioctl.o fs/coda/sysctl.o 

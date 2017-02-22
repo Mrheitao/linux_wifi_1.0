@@ -1,0 +1,1 @@
+cmd_fs/befs/befs.o := /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o fs/befs/befs.o fs/befs/datastream.o fs/befs/btree.o fs/befs/super.o fs/befs/inode.o fs/befs/debug.o fs/befs/io.o fs/befs/linuxvfs.o 

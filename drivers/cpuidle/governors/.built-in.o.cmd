@@ -1,0 +1,1 @@
+cmd_drivers/cpuidle/governors/built-in.o :=  /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o drivers/cpuidle/governors/built-in.o drivers/cpuidle/governors/ladder.o drivers/cpuidle/governors/menu.o 

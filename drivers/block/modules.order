@@ -1,0 +1,14 @@
+kernel/drivers/block/cpqarray.ko
+kernel/drivers/block/cciss.ko
+kernel/drivers/block/DAC960.ko
+kernel/drivers/block/pktcdvd.ko
+kernel/drivers/block/nvme.ko
+kernel/drivers/block/osdblk.ko
+kernel/drivers/block/umem.ko
+kernel/drivers/block/nbd.ko
+kernel/drivers/block/cryptoloop.ko
+kernel/drivers/block/sx8.ko
+kernel/drivers/block/ub.ko
+kernel/drivers/block/drbd/drbd.ko
+kernel/drivers/block/rbd.ko
+kernel/drivers/block/mtip32xx/mtip32xx.ko

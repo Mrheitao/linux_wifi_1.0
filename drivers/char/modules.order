@@ -1,0 +1,17 @@
+kernel/drivers/char/hw_random/timeriomem-rng.ko
+kernel/drivers/char/hw_random/virtio-rng.ko
+kernel/drivers/char/tpm/tpm_atmel.ko
+kernel/drivers/char/virtio_console.ko
+kernel/drivers/char/raw.ko
+kernel/drivers/char/lp.ko
+kernel/drivers/char/applicom.ko
+kernel/drivers/char/nvram.ko
+kernel/drivers/char/ppdev.ko
+kernel/drivers/char/pcmcia/synclink_cs.ko
+kernel/drivers/char/pcmcia/cm4000_cs.ko
+kernel/drivers/char/pcmcia/cm4040_cs.ko
+kernel/drivers/char/ipmi/ipmi_msghandler.ko
+kernel/drivers/char/ipmi/ipmi_devintf.ko
+kernel/drivers/char/ipmi/ipmi_si.ko
+kernel/drivers/char/ipmi/ipmi_watchdog.ko
+kernel/drivers/char/ipmi/ipmi_poweroff.ko

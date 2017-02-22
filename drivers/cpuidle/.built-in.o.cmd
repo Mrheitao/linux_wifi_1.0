@@ -1,0 +1,1 @@
+cmd_drivers/cpuidle/built-in.o :=  /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o drivers/cpuidle/built-in.o drivers/cpuidle/cpuidle.o drivers/cpuidle/driver.o drivers/cpuidle/governor.o drivers/cpuidle/sysfs.o drivers/cpuidle/governors/built-in.o 

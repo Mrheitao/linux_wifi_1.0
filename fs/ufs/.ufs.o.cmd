@@ -1,0 +1,1 @@
+cmd_fs/ufs/ufs.o := /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o fs/ufs/ufs.o fs/ufs/balloc.o fs/ufs/cylinder.o fs/ufs/dir.o fs/ufs/file.o fs/ufs/ialloc.o fs/ufs/inode.o fs/ufs/namei.o fs/ufs/super.o fs/ufs/symlink.o fs/ufs/truncate.o fs/ufs/util.o 

@@ -1,0 +1,1 @@
+cmd_kernel/power/built-in.o :=  /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o kernel/power/built-in.o kernel/power/qos.o kernel/power/main.o kernel/power/console.o kernel/power/process.o kernel/power/suspend.o kernel/power/suspend_test.o kernel/power/poweroff.o 

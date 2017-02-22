@@ -1,0 +1,1 @@
+cmd_security/keys/encrypted-keys/encrypted-keys.o := /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o security/keys/encrypted-keys/encrypted-keys.o security/keys/encrypted-keys/encrypted.o security/keys/encrypted-keys/ecryptfs_format.o security/keys/encrypted-keys/masterkey_trusted.o 

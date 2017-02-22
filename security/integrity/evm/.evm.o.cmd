@@ -1,0 +1,1 @@
+cmd_security/integrity/evm/evm.o := /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o security/integrity/evm/evm.o security/integrity/evm/evm_main.o security/integrity/evm/evm_crypto.o security/integrity/evm/evm_secfs.o security/integrity/evm/evm_posix_acl.o 

@@ -1,0 +1,1 @@
+cmd_drivers/char/ipmi/ipmi_si.o := /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o drivers/char/ipmi/ipmi_si.o drivers/char/ipmi/ipmi_si_intf.o drivers/char/ipmi/ipmi_kcs_sm.o drivers/char/ipmi/ipmi_smic_sm.o drivers/char/ipmi/ipmi_bt_sm.o 

@@ -1,0 +1,1 @@
+cmd_fs/exofs/exofs.o := /usr/local/arm/4.5.1/bin/arm-linux-ld -EL    -r -o fs/exofs/exofs.o fs/exofs/inode.o fs/exofs/file.o fs/exofs/symlink.o fs/exofs/namei.o fs/exofs/dir.o fs/exofs/super.o fs/exofs/sys.o 
